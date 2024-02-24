@@ -4,8 +4,8 @@
       "category": "Clothes",
       "quantity": 100,
       "price": 15.99,
-      "image": "https://example.com/tshirt.jpg",
-      "thumbnail_image": "https://example.com/tshirt_thumbnail.jpg",
+      "image": "https://ibb.co/t3w9rxq",
+      "thumbnail_image": "https://i.ibb.co/72F2VS0/pexels-anna-nekrashevich-8532616.jpg",
       "description": "A comfortable and stylish t-shirt made from 100% cotton.",
       "size": ["S", "M", "L", "XL"]
     },
@@ -14,8 +14,8 @@
       "category": "Clothes",
       "quantity": 50,
       "price": 29.99,
-      "image": "https://example.com/jeans.jpg",
-      "thumbnail_image": "https://example.com/jeans_thumbnail.jpg",
+      "image": "https://i.ibb.co/4s6T4Ms/pexels-anna-shvets-4557647.jpg",
+      "thumbnail_image": "https://i.ibb.co/N9Cd3b4/pexels-anna-shvets-4557642.jpg",
       "description": "Classic denim jeans for women with a slim fit design.",
       "size": ["XS", "S", "M", "L"]
     },
@@ -24,8 +24,8 @@
       "category": "Accessories",
       "quantity": 75,
       "price": 49.99,
-      "image": "https://example.com/earbuds.jpg",
-      "thumbnail_image": "https://example.com/earbuds_thumbnail.jpg",
+      "image": "https://i.ibb.co/1MjKgnS/pexels-blue-bird-7242814.jpg",
+      "thumbnail_image": "https://i.ibb.co/gtDWtrD/hoco-ew34-500x500.webp",
       "description": "High-quality wireless earbuds with Bluetooth connectivity."
     },
     {
@@ -34,7 +34,7 @@
       "quantity": 30,
       "price": 39.99,
       "image": "https://example.com/backpack.jpg",
-      "thumbnail_image": "https://example.com/backpack_thumbnail.jpg",
+      "thumbnail_image": "https://i.ibb.co/yWv0ZtL/a1.jpg",
       "description": "Spacious backpack suitable for both men and women, with multiple compartments."
     },
     {

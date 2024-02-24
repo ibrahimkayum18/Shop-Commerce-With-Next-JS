@@ -1,6 +1,7 @@
 import Link from "next/link";
 import ShoppingCartIcon from "@mui/icons-material/ShoppingCart";
 import FavoriteBorderIcon from "@mui/icons-material/FavoriteBorder";
+import AddBoxIcon from "@mui/icons-material/AddBox";
 
 const Navbar = () => {
   const navLinks = (
@@ -52,43 +53,18 @@ const Navbar = () => {
       <div className="navbar-center hidden lg:flex">
         <ul className="menu menu-horizontal px-1">{navLinks}</ul>
       </div>
-      <div className="navbar-end">
+      <div className="navbar-end flex gap-5 pr-10">
         <a className="">
           <ShoppingCartIcon />
         </a>
         <a>
           <FavoriteBorderIcon />
         </a>
-        <div className="drawer drawer-end">
-          <input id="my-drawer-4" type="checkbox" className="drawer-toggle" />
-          <div className="drawer-content">
-            {/* Page content here */}
-            <label
-              htmlFor="my-drawer-4"
-              className="drawer-button"
-            >
-              <a className="">
-                <ShoppingCartIcon />
-              </a>
-            </label>
-          </div>
-          <div className="drawer-side">
-            <label
-              htmlFor="my-drawer-4"
-              aria-label="close sidebar"
-              className="drawer-overlay"
-            ></label>
-            <ul className="menu p-4 w-80 min-h-full bg-base-200 text-base-content z-50">
-              {/* Sidebar content here */}
-              <li>
-                <a>Sidebar Item 1</a>
-              </li>
-              <li>
-                <a>Sidebar Item 2</a>
-              </li>
-            </ul>
-          </div>
-        </div>
+        <Link href={'/add-products'}>
+        <button className="">
+          <AddBoxIcon />
+        </button>
+        </Link>
       </div>
     </div>
   );
