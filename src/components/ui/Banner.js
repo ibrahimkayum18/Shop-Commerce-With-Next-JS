@@ -9,7 +9,7 @@ import Link from "next/link";
 const Banner = () => {
   return (
     <div className="relative bg-gradient-to-r from-purple-700 to-blue-500 lg:min-h-screen overflow-hidden">
-      <div className="max-w-7xl mx-auto py-5 px-4 sm:px-6 lg:px-5">
+      <div className="max-w-7xl mx-auto pt-14 pb-5 px-4 sm:px-6 lg:px-5">
         <div className="relative  rounded-lg shadow-lg overflow-hidden">
           <div className="absolute inset-0 bg-gray-900 opacity-50"></div>
           <div className="relative z-10 py-10 px-8 sm:py-16 sm:px-12 lg:px-16 flex flex-col sm:flex-row justify-between items-center">

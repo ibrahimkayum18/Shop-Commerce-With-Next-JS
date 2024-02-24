@@ -21,7 +21,7 @@ const Navbar = () => {
   );
 
   return (
-    <div className="navbar bg-base-100">
+    <div className="navbar bg-base-100 bg-transparent absolute md:top-9 text-white z-50">
       <div className="navbar-start">
         <div className="dropdown">
           <div tabIndex={0} role="button" className="btn btn-ghost lg:hidden">
@@ -59,6 +59,36 @@ const Navbar = () => {
         <a>
           <FavoriteBorderIcon />
         </a>
+        <div className="drawer drawer-end">
+          <input id="my-drawer-4" type="checkbox" className="drawer-toggle" />
+          <div className="drawer-content">
+            {/* Page content here */}
+            <label
+              htmlFor="my-drawer-4"
+              className="drawer-button"
+            >
+              <a className="">
+                <ShoppingCartIcon />
+              </a>
+            </label>
+          </div>
+          <div className="drawer-side">
+            <label
+              htmlFor="my-drawer-4"
+              aria-label="close sidebar"
+              className="drawer-overlay"
+            ></label>
+            <ul className="menu p-4 w-80 min-h-full bg-base-200 text-base-content z-50">
+              {/* Sidebar content here */}
+              <li>
+                <a>Sidebar Item 1</a>
+              </li>
+              <li>
+                <a>Sidebar Item 2</a>
+              </li>
+            </ul>
+          </div>
+        </div>
       </div>
     </div>
   );
