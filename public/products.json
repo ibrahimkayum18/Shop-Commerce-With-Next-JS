@@ -1,0 +1,144 @@
+[
+    {
+      "product_name": "Men's Cotton T-Shirt",
+      "category": "Clothes",
+      "quantity": 100,
+      "price": 15.99,
+      "image": "https://example.com/tshirt.jpg",
+      "thumbnail_image": "https://example.com/tshirt_thumbnail.jpg",
+      "description": "A comfortable and stylish t-shirt made from 100% cotton.",
+      "size": ["S", "M", "L", "XL"]
+    },
+    {
+      "product_name": "Women's Denim Jeans",
+      "category": "Clothes",
+      "quantity": 50,
+      "price": 29.99,
+      "image": "https://example.com/jeans.jpg",
+      "thumbnail_image": "https://example.com/jeans_thumbnail.jpg",
+      "description": "Classic denim jeans for women with a slim fit design.",
+      "size": ["XS", "S", "M", "L"]
+    },
+    {
+      "product_name": "Wireless Bluetooth Earbuds",
+      "category": "Accessories",
+      "quantity": 75,
+      "price": 49.99,
+      "image": "https://example.com/earbuds.jpg",
+      "thumbnail_image": "https://example.com/earbuds_thumbnail.jpg",
+      "description": "High-quality wireless earbuds with Bluetooth connectivity."
+    },
+    {
+      "product_name": "Unisex Backpack",
+      "category": "Bags",
+      "quantity": 30,
+      "price": 39.99,
+      "image": "https://example.com/backpack.jpg",
+      "thumbnail_image": "https://example.com/backpack_thumbnail.jpg",
+      "description": "Spacious backpack suitable for both men and women, with multiple compartments."
+    },
+    {
+      "product_name": "Portable Power Bank",
+      "category": "Accessories",
+      "quantity": 100,
+      "price": 24.99,
+      "image": "https://example.com/powerbank.jpg",
+      "thumbnail_image": "https://example.com/powerbank_thumbnail.jpg",
+      "description": "Compact power bank with high capacity for charging devices on the go."
+    },
+    {
+      "product_name": "Men's Sports Shoes",
+      "category": "Sneakers",
+      "quantity": 40,
+      "price": 59.99,
+      "image": "https://example.com/sportsshoes.jpg",
+      "thumbnail_image": "https://example.com/sportsshoes_thumbnail.jpg",
+      "description": "Durable and comfortable sports shoes for men, suitable for various activities.",
+      "size": ["7", "8", "9", "10"]
+    },
+    {
+      "product_name": "Women's Leather Handbag",
+      "category": "Bags",
+      "quantity": 20,
+      "price": 79.99,
+      "image": "https://example.com/handbag.jpg",
+      "thumbnail_image": "https://example.com/handbag_thumbnail.jpg",
+      "description": "Stylish leather handbag for women with multiple compartments and a detachable strap."
+    },
+    {
+      "product_name": "Smartphone Case",
+      "category": "Accessories",
+      "quantity": 150,
+      "price": 9.99,
+      "image": "https://example.com/phonecase.jpg",
+      "thumbnail_image": "https://example.com/phonecase_thumbnail.jpg",
+      "description": "Protective case for smartphones available in various colors."
+    },
+    {
+      "product_name": "Digital Camera",
+      "category": "Electronics",
+      "quantity": 10,
+      "price": 299.99,
+      "image": "https://example.com/camera.jpg",
+      "thumbnail_image": "https://example.com/camera_thumbnail.jpg",
+      "description": "High-resolution digital camera with advanced features for photography enthusiasts."
+    },
+    {
+      "product_name": "Kids' Educational Toys Set",
+      "category": "Toys",
+      "quantity": 25,
+      "price": 39.99,
+      "image": "https://example.com/toys.jpg",
+      "thumbnail_image": "https://example.com/toys_thumbnail.jpg",
+      "description": "Educational toys set for kids to enhance learning and creativity."
+    },
+    {
+      "product_name": "Men's Formal Shirt",
+      "category": "Clothes",
+      "quantity": 60,
+      "price": 24.99,
+      "image": "https://example.com/formalshirt.jpg",
+      "thumbnail_image": "https://example.com/formalshirt_thumbnail.jpg",
+      "description": "Classic formal shirt for men suitable for office wear and special occasions.",
+      "size": ["S", "M", "L", "XL"]
+    },
+    {
+      "product_name": "Women's Running Shorts",
+      "category": "Clothes",
+      "quantity": 35,
+      "price": 19.99,
+      "image": "https://example.com/runningshorts.jpg",
+      "thumbnail_image": "https://example.com/runningshorts_thumbnail.jpg",
+      "description": "Comfortable running shorts for women with moisture-wicking fabric.",
+      "size": ["XS", "S", "M", "L"]
+    },
+    {
+      "product_name": "Wireless Gaming Mouse",
+      "category": "Gaming",
+      "quantity": 20,
+      "price": 49.99,
+      "image": "https://example.com/gamingmouse.jpg",
+      "thumbnail_image": "https://example.com/gamingmouse_thumbnail.jpg",
+      "description": "High-performance wireless gaming mouse with customizable buttons and RGB lighting."
+    },
+    {
+      "product_name": "Home Security Camera System",
+      "category": "Electronics",
+      "quantity": 5,
+      "price": 199.99,
+      "image": "https://example.com/securitycamera.jpg",
+      "thumbnail_image": "https://example.com/securitycamera_thumbnail.jpg",
+      "description": "Complete home security camera system with multiple cameras and remote monitoring."
+    },
+    {
+      "product_name": "Men's Casual Sneakers",
+      "category": "Sneakers",
+      "quantity": 45,
+      "price": 34.99,
+      "image": "https://example.com/sneakers.jpg",
+      "thumbnail_image": "https://example.com/sneakers_thumbnail.jpg",
+      "description": "Comfortable and stylish sneakers for men for casual wear.",
+      "size": ["7", "8", "9", "10"]
+    }
+  ]
+  
